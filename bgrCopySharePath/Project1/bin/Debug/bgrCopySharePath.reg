@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell]
+
+[HKEY_CLASSES_ROOT\*\shell\Copy Share Path]
+
+[HKEY_CLASSES_ROOT\*\shell\Copy Share Path\command]
+@="bgrCopySharePath \"%1\""

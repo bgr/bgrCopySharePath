@@ -1,0 +1,5 @@
+bin\Debug\bgrCSPupdater.exe
+bin\Debug\bgrCSPupdater.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\bgrCSPupdater.exe
+obj\Debug\bgrCSPupdater.pdb
